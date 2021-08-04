@@ -1,0 +1,23 @@
+{
+  "name": "discord-button-role",
+  "version": "0.0.5",
+  "description": "Create beautiful role selection message !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "discord-buttons",
+    "reaction",
+    "role",
+	"discord-button",
+	"react-role",
+    "react"
+  ],
+  "author": "tthomxs",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "discord-buttons": "^4.0.0"
+  }
+}
